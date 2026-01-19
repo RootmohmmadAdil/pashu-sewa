@@ -1,0 +1,11 @@
+name = "pashusewa"
+main = "worker.js"
+compatibility_date = "2024-01-01"
+
+account_id = "2d6d6e406c1cda08f69a88306994aac4"
+
+# Configure D1 Database
+[[d1_databases]]
+binding = "DB"
+database_name = "pashusewa"
+database_id = "f9965a11-85bc-4558-a4ff-5160a9444c8c"
