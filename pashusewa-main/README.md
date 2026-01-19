@@ -1,7 +1,8 @@
 # 🐾 PashuSewa - Animal Rescue Reporting System
 
-[![Cloudflare Pages](https://img.shields.io/badge/Deployed%20on-Cloudflare%20Pages-orange?style=flat-square&logo=cloudflare)](https://pashusewa.pages.dev)
-[![Cloudflare Workers](https://img.shields.io/badge/Backend-Cloudflare%20Workers-blue?style=flat-square&logo=cloudflare)](https://workers.cloudflare.com)
+[![Pages](https://img.shields.io/badge/Frontend-Cloudflare%20Pages-orange?style=flat-square&logo=cloudflare)](https://pashusewa-react.pages.dev)
+[![Workers](https://img.shields.io/badge/Backend-Cloudflare%20Workers-blue?style=flat-square&logo=cloudflare)](https://pashusewa.pashusewa.workers.dev)
+[![Repo](https://img.shields.io/badge/GitHub-pashu--sewa-black?style=flat-square&logo=github)](https://github.com/RootmohmmadAdil/pashu-sewa)
 
 > **Empowering communities to save injured animals through technology**
 
