@@ -7,7 +7,8 @@ export default {
       const origin = request.headers.get("Origin");
       const allowedOrigins = [
         "https://pashusewa.pages.dev",
-        "https://pashusewa-react.pages.dev"
+        "https://pashusewa-react.pages.dev",
+        "https://pashusewa-vercel.vercel.app"
       ];
 
       const isAllowedOrigin = allowedOrigins.includes(origin);
